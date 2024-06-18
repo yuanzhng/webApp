@@ -1,0 +1,2 @@
+UPLOAD_FOLDER=C:/webApp/webApp/datafiles_csv
+SQLALCHEMY_DATABASE_URI=sqlite:////webApp/webApp/instance/users.sqlite3
